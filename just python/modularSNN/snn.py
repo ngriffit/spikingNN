@@ -3,6 +3,11 @@ from scipy.spatial.distance import pdist, squareform
 import matplotlib.pyplot as plt
 from IPython.display import clear_output
 
+###################################################################################################
+################################ A Module for Multi-layered SNNs ##################################                               ######################################## Nora Griffith ############################################
+######################################## September 2020 ###########################################
+###################################################################################################
+
 class Network:
     """
     A class for a network object that holds all layers
